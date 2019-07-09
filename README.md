@@ -1,3 +1,5 @@
-50 RANDOM FROM THE DATABASE
-LIMITED QUESTIONS
-ARRAYBASED
+MCQ Solving Portal
+(Ongoing project, UI development in process)
+
+Technologies used -
+Django, MySQL, Firebase
